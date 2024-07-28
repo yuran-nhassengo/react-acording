@@ -1,8 +1,13 @@
-# React + Vite
+Projecto de Accord com React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto implementa um accord simples usando React, onde os usuários podem clicar nos títulos das perguntas para expandir e ver as respostas correspondentes. Além disso, oferece a opção de habilitar a seleção múltipla para visualizar várias respostas ao mesmo tempo
 
-Currently, two official plugins are available:
+Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* React
+* Tailwind CSS
+
+Funcionalidades
+
+* Expandir e recolher perguntas clicando nos títulos.
+* Opção de habilitar seleção múltipla para ver várias respostas simultaneamente.
